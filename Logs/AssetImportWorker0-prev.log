@@ -1,0 +1,1667 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.55f1 (9f374180d209) revision 10434369'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'es' Physical Memory: 4005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.55f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/ARIEL/Projects/Unity/Desarrollo de Videojuegos/First Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57776
+Successfully changed project path to: C:/Users/ARIEL/Projects/Unity/Desarrollo de Videojuegos/First Project
+C:/Users/ARIEL/Projects/Unity/Desarrollo de Videojuegos/First Project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [18048]  Target information:
+
+Player connection [18048]  * "[IP] 192.168.75.1 [Port] 0 [Flags] 2 [Guid] 2228225845 [EditorId] 2228225845 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-BEFKEM8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [18048]  * "[IP] 192.168.230.1 [Port] 0 [Flags] 2 [Guid] 2228225845 [EditorId] 2228225845 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-BEFKEM8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [18048]  * "[IP] 172.31.0.245 [Port] 0 [Flags] 2 [Guid] 2228225845 [EditorId] 2228225845 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-BEFKEM8) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [18048] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [18048] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+Refreshing native plugins compatible for Editor in 82.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.55f1 (9f374180d209)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.55f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ARIEL/Projects/Unity/Desarrollo de Videojuegos/First Project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     2002 MB
+    Driver:   27.20.100.8729
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.55f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.55f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.55f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56800
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.55f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.028553 seconds.
+- Loaded All Assemblies, in  1.140 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.720 seconds
+Domain Reload Profiling: 1854ms
+	BeginReloadAssembly (382ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (133ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (189ms)
+	LoadAllAssembliesAndSetupDomain (395ms)
+		LoadAssemblies (375ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (390ms)
+			TypeCache.Refresh (387ms)
+				TypeCache.ScanAssembly (355ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (721ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (615ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (28ms)
+			SetLoadedEditorAssemblies (16ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (427ms)
+			ProcessInitializeOnLoadMethodAttributes (138ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.153 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.993 seconds
+Domain Reload Profiling: 5131ms
+	BeginReloadAssembly (363ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (53ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (78ms)
+	LoadAllAssembliesAndSetupDomain (2626ms)
+		LoadAssemblies (1705ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (1141ms)
+			TypeCache.Refresh (1090ms)
+				TypeCache.ScanAssembly (872ms)
+			ScanForSourceGeneratedMonoScriptInfo (35ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1996ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1634ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (24ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (185ms)
+			ProcessInitializeOnLoadAttributes (1325ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (28ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (19ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.15 seconds
+Refreshing native plugins compatible for Editor in 13.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3125 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (54.8 KB). Loaded Objects now: 3609.
+Memory consumption went from 128.6 MB to 128.5 MB.
+Total: 13.215700 ms (FindLiveObjects: 1.221700 ms CreateObjectMapping: 0.441800 ms MarkObjects: 9.184100 ms  DeleteObjects: 2.366800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1134279.665597 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Bus_color01.prefab
+  artifactKey: Guid(9500f0cdde0097a4aac35ced7c1935d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Bus_color01.prefab using Guid(9500f0cdde0097a4aac35ced7c1935d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '31f9826c1853b856597c0843c84889e3') in 0.291964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_SUV_color03.prefab
+  artifactKey: Guid(00d77ce56096de34eb6645947a0f8925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_SUV_color03.prefab using Guid(00d77ce56096de34eb6645947a0f8925) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1b489828426b75fc3dd850d69b296701') in 0.105134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_SUV_color02.prefab
+  artifactKey: Guid(b0ad868427d8c8a4b86144f9786776d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_SUV_color02.prefab using Guid(b0ad868427d8c8a4b86144f9786776d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7ee931bfbd4d3a280ed634a20a85e5d4') in 0.079710 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Car_color02.prefab
+  artifactKey: Guid(81835658bbd378143a0f525b8552f557) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Car_color02.prefab using Guid(81835658bbd378143a0f525b8552f557) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'bdb6b51a5351e23cd1436db631828cf3') in 0.067435 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_SUV_color01.prefab
+  artifactKey: Guid(288b117258616aa4f928ba6f91dc47c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_SUV_color01.prefab using Guid(288b117258616aa4f928ba6f91dc47c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9fce0d426ca213077e00e31ee90e1576') in 0.077414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Ambulance.prefab
+  artifactKey: Guid(9b25e71fd5b7ac6469539d930c6dc2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Ambulance.prefab using Guid(9b25e71fd5b7ac6469539d930c6dc2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a5b90d1f325de9e57b0c5413dffced1b') in 0.083211 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Pick up Truck_color03.prefab
+  artifactKey: Guid(ce2dd4bb67fdc684dac928dc2cfb7a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Pick up Truck_color03.prefab using Guid(ce2dd4bb67fdc684dac928dc2cfb7a0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '67a40741b1ae86e3ba2e531739b0fb3e') in 0.058230 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Bus_color03.prefab
+  artifactKey: Guid(f269a0a343ed94c4e908a388c940ea06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Bus_color03.prefab using Guid(f269a0a343ed94c4e908a388c940ea06) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '31dcdca234a4d1e29453711fe91e45b0') in 0.040813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Container_color01.prefab
+  artifactKey: Guid(979de0ac65f6d2b48a89e9088986637f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Container_color01.prefab using Guid(979de0ac65f6d2b48a89e9088986637f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'eedd3a4aa7fe785274cbcc04badfc8e2') in 0.049607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles
+  artifactKey: Guid(9189a8c6ad4c9ea46a08e1a9e0cc7e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles using Guid(9189a8c6ad4c9ea46a08e1a9e0cc7e28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c0dcb01ae7f2b21282548c6ecfbbe2ce') in 0.001131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Truck_color03.prefab
+  artifactKey: Guid(993432d7809c9bf489a5a96006618fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Truck_color03.prefab using Guid(993432d7809c9bf489a5a96006618fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8127b3d0ceeab6c3ef7aaa2602c1cb7b') in 0.064667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Container_color02.prefab
+  artifactKey: Guid(6fa2aa0a1d56aba4a8884471618de9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Static Wheels/Vehicle_Container_color02.prefab using Guid(6fa2aa0a1d56aba4a8884471618de9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '77bb399438c62b01957a2dbeb28520dd') in 0.064975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 8.719492 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(f8f1573e38a8c114781b384bd4a1526e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(f8f1573e38a8c114781b384bd4a1526e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '40f9453d046889400f11a544aca8fda1') in 0.018325 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 2.392926 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ae5280ad91af67e2a353905758f96678') in 0.000772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 224.935066 seconds.
+  path: Assets/New Terrain 1.asset
+  artifactKey: Guid(f8f1573e38a8c114781b384bd4a1526e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain 1.asset using Guid(f8f1573e38a8c114781b384bd4a1526e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'af23eb8347a430cbd9ba5a80821896fc') in 0.146667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  4.426 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.376 seconds
+Domain Reload Profiling: 8803ms
+	BeginReloadAssembly (2126ms)
+		ExecutionOrderSort (2ms)
+		DisableScriptedObjects (96ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (8ms)
+		CreateAndSetChildDomain (899ms)
+	RebuildCommonClasses (107ms)
+	RebuildNativeTypeToScriptingClass (36ms)
+	initialDomainReloadingComplete (137ms)
+	LoadAllAssembliesAndSetupDomain (2020ms)
+		LoadAssemblies (2471ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (168ms)
+			TypeCache.Refresh (96ms)
+				TypeCache.ScanAssembly (3ms)
+			ScanForSourceGeneratedMonoScriptInfo (36ms)
+			ResolveRequiredComponents (34ms)
+	FinalizeReload (4378ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (971ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (38ms)
+			SetLoadedEditorAssemblies (16ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (147ms)
+			ProcessInitializeOnLoadAttributes (688ms)
+			ProcessInitializeOnLoadMethodAttributes (61ms)
+			AfterProcessingInitializeOnLoad (20ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (19ms)
+Refreshing native plugins compatible for Editor in 16.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3118 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 14 unused Assets / (28.4 KB). Loaded Objects now: 3621.
+Memory consumption went from 132.0 MB to 132.0 MB.
+Total: 19.982800 ms (FindLiveObjects: 1.557200 ms CreateObjectMapping: 0.255000 ms MarkObjects: 17.306100 ms  DeleteObjects: 0.863400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/CameraFreeflight.cs: 921d2c9111d80537a1c6f5299550ad1c -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 7961095c189ed6265a679e56f31e8366 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 119.460399 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_01.png
+  artifactKey: Guid(15f6d1c452c8e9f4c896260d6bb8433d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_01.png using Guid(15f6d1c452c8e9f4c896260d6bb8433d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ace070f76e8e7f7632be40beb8b0563b') in 0.370505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000697 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_02_smoothness.png
+  artifactKey: Guid(bd0d06ed462f301429744cbff86a9e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_02_smoothness.png using Guid(bd0d06ed462f301429744cbff86a9e00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a79763a64360d0eeeb5db2bfefe1243d') in 0.075340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_02_normal.png
+  artifactKey: Guid(66319961537921f499d8f1b181eabbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_02_normal.png using Guid(66319961537921f499d8f1b181eabbc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1124ce0a6b90ac1662be54a851dc3885') in 0.124813 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_03_ao.png
+  artifactKey: Guid(dccdc0590104f4747ad7b93faefdb820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_03_ao.png using Guid(dccdc0590104f4747ad7b93faefdb820) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '19ab14e180d9ef47e67f8c84b58e0be9') in 0.064680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_03.png
+  artifactKey: Guid(d2af4f613f58aa04e9bcf494a8ec1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_03.png using Guid(d2af4f613f58aa04e9bcf494a8ec1b58) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e84ccc18b130db412f578744df825478') in 0.071573 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_01_smoohtness.png
+  artifactKey: Guid(4601883a585028646af509d494130b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_01_smoohtness.png using Guid(4601883a585028646af509d494130b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '871b59a4a5fffbd38770fd6dd9fb27cd') in 0.071153 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_03_normal.png
+  artifactKey: Guid(a34dbb64b78c32a478a651544f7585a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_03_normal.png using Guid(a34dbb64b78c32a478a651544f7585a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5c58cb916347da197152dd27c54d849b') in 0.090252 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 65.157107 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_03_smoothness.png
+  artifactKey: Guid(2c190177ab4e2914381dd2b8c54fc824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_03_smoothness.png using Guid(2c190177ab4e2914381dd2b8c54fc824) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '43b199e259b8f42029bf2e29d0afed5d') in 0.414514 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_04_ao.png
+  artifactKey: Guid(bf64c87dd7e962f4881f59938515497f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_04_ao.png using Guid(bf64c87dd7e962f4881f59938515497f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f5488ef7a000fdd335843fea4b046fb1') in 0.129660 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/grass_04_smoothness.png
+  artifactKey: Guid(10798f9303ad0914d9d1d2032009291a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/grass_04_smoothness.png using Guid(10798f9303ad0914d9d1d2032009291a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'aa322fea101ac1a073f17bae409f33ac') in 0.147773 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 253.312819 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/NewBrush.brush
+  artifactKey: Guid(b2e8629711a769f4eab03a8a6dd92f45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/NewBrush.brush using Guid(b2e8629711a769f4eab03a8a6dd92f45) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ca86784a4b434fdc2c4edad65c4ccd9d') in 0.392487 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 47.691492 seconds.
+  path: Assets/PBR_Grass_Textures/Textures/NewLayer.terrainlayer
+  artifactKey: Guid(f983412460d30a040840224b49b8edda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PBR_Grass_Textures/Textures/NewLayer.terrainlayer using Guid(f983412460d30a040840224b49b8edda) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '5c367bd2e63c8cd6b8ac06a7b65423c8') in 0.318555 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.532 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.970 seconds
+Domain Reload Profiling: 7510ms
+	BeginReloadAssembly (1179ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (53ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (3ms)
+		CreateAndSetChildDomain (490ms)
+	RebuildCommonClasses (57ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (119ms)
+	LoadAllAssembliesAndSetupDomain (2165ms)
+		LoadAssemblies (2338ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (234ms)
+			TypeCache.Refresh (176ms)
+				TypeCache.ScanAssembly (25ms)
+			ScanForSourceGeneratedMonoScriptInfo (33ms)
+			ResolveRequiredComponents (23ms)
+	FinalizeReload (3972ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1267ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (27ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (149ms)
+			ProcessInitializeOnLoadAttributes (964ms)
+			ProcessInitializeOnLoadMethodAttributes (79ms)
+			AfterProcessingInitializeOnLoad (34ms)
+			EditorAssembliesLoaded (2ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (28ms)
+Refreshing native plugins compatible for Editor in 10.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3313 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 62 unused Assets / (3.7 MB). Loaded Objects now: 3790.
+Memory consumption went from 148.4 MB to 144.7 MB.
+Total: 18.951300 ms (FindLiveObjects: 1.297000 ms CreateObjectMapping: 0.354200 ms MarkObjects: 15.208000 ms  DeleteObjects: 2.090300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/AbsFilter.cs: eec45da3078262aefb7938df118ad87a -> 
+  custom:scripting/monoscript/fileName/BaseBrushUIGroup.cs: f3d79f09b8f41da79d38531e5168ee2f -> 
+  custom:scripting/monoscript/fileName/NoneFractalType.cs: 25da773c57ca61106ec7fc86eb6373a7 -> 
+  custom:scripting/monoscript/fileName/Filter.cs: 44a41dc767ec5f748893880acf05c662 -> 935824dbebf762a19f2d4c4751625fe2
+  custom:scripting/monoscript/fileName/FractalType.cs: f0a68b0494c41002f9f945e7b71b1216 -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxUtilities.cs: a5dc108d5220e4b94b4ed137a0e429e4 -> 
+  custom:scripting/monoscript/fileName/SmudgeHeight.cs: 1462c04302f0981db09154b1f7d81802 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/NoiseLib.cs: b7278e7e0a44a273dd60f7ead0b281ae -> 
+  custom:scripting/monoscript/fileName/Heightmap.cs: b6d87f35c7d6c551db3a13a7afd2d798 -> 
+  custom:scripting/monoscript/fileName/TerrainFillUtility.cs: bb73b867a8925602f4fa7777c7a52e7a -> 
+  custom:scripting/monoscript/fileName/IBrushUIGroup.cs: c361cdf51dd0f7ebe4a43835a80dab24 -> 
+  custom:scripting/monoscript/fileName/BillowNoise.cs: 42426f7a4645fd7a235799b5cdc32b0b -> 
+  custom:scripting/monoscript/fileName/ConcavityFilter.cs: c1dd85d05ea4b694d69b549cc2dca1a3 -> 
+  custom:scripting/monoscript/fileName/DistributionSliderGUI.cs: cd4735ccbcd1478ef10d1340797ec107 -> 
+  custom:scripting/monoscript/fileName/PaintTextureTool.cs: e6a804b11f28ca65760cf1d61e47057b -> 
+  custom:scripting/monoscript/fileName/VoronoiNoise.cs: ee0a21c6257a3f0f119e4e766436da28 -> 
+  custom:scripting/monoscript/fileName/IBrushTerrainCache.cs: 90369d5d4a044058c0a92f0a57cff9cd -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxVisualization.cs: 51cab2dadf57114a9411397e4253d36c -> 
+  custom:scripting/monoscript/fileName/SharpenPeaksTool.cs: 4c81589f7e304310b9bf07e39770a962 -> 
+  custom:scripting/monoscript/fileName/ContrastTool.cs: 4c1951307605f0beec328a06a898d6af -> 
+  custom:scripting/monoscript/fileName/BrushScatterVariator.cs: 4b7c31aad2fb4696955a4c583080b06a -> 
+  custom:scripting/monoscript/fileName/TerrainSettings.cs: b5aea35d6e71e77b46eeffa77017f635 -> 
+  custom:scripting/monoscript/fileName/PinchHeight.cs: c73bbe9e2240fabf64b31107b1b23686 -> 
+  custom:scripting/monoscript/fileName/HydroErosion.cs: 84af384610ac3cf14ed423f2a226188b -> 
+  custom:scripting/monoscript/fileName/NoiseWindow.cs: 0d20bf0d60a95f1f4ca7bb9fe67398f3 -> 
+  custom:scripting/monoscript/fileName/MaxFilter.cs: b81408d5c0bb352d5436a4eace4516b2 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/DefaultBrushModifierKeys.cs: 6c3a5d7cd4a937da22e560786986baaa -> 
+  custom:scripting/monoscript/fileName/ThermalEroder.cs: 7e69c1378b1cd9cce2a8340a7e2b8578 -> 
+  custom:scripting/monoscript/fileName/HydraulicEroder.cs: 64e38060f50350f17719a98702355076 -> 
+  custom:scripting/monoscript/fileName/NoiseShaderGenerator.cs: da5831cc2231959a934e78f759d5ded8 -> 
+  custom:scripting/monoscript/fileName/NegateFilter.cs: 7c13689d916cde667e62e8d68c682c17 -> 
+  custom:scripting/monoscript/fileName/CameraFreeflight.cs: 921d2c9111d80537a1c6f5299550ad1c -> 
+  custom:scripting/monoscript/fileName/WindErosionTool.cs: c4fabfff0628525ee3df83e562f7560c -> 
+  custom:scripting/monoscript/fileName/SlopeFilter.cs: e667eecb9e19a65e593fbc4a499591c2 -> 
+  custom:scripting/monoscript/fileName/IBrushRotationController.cs: e23e00c29daa2db4793adaf7bb5003c3 -> 
+  custom:scripting/monoscript/fileName/NoiseComponentEditor.cs: a42f479c5eae3b41397b90f2a38d3f4a -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/StrataFractalType.cs: ded195ca740e1d5403d9cd63e10add13 -> 
+  custom:scripting/monoscript/fileName/FilterContext.cs: ed947e57b2f8dfddca5bb2ca357713a8 -> 
+  custom:scripting/monoscript/fileName/HeightFilter.cs: 93c471cfcb972607d950b4436271ba09 -> 
+  custom:scripting/monoscript/fileName/NoiseFilter.cs: 26ebbe64769f7ff707c19b1da586af35 -> 
+  custom:scripting/monoscript/fileName/TwistHeight.cs: 4d6e84dc15af95271f9879bac25b45a0 -> 
+  custom:scripting/monoscript/fileName/IBrushEventHandler.cs: 648ef116e9374d8323af7e53add8a21d -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/BlurFilter.cs: 4bded063ee5a1d630a11ba413c1b48a1 -> 
+  custom:scripting/monoscript/fileName/ThermalErosionTool.cs: 5f881ed20a33bb3f8edf03dcbde9dd39 -> 
+  custom:scripting/monoscript/fileName/NoiseSettingsAssetEditor.cs: 73af756cb55ed1a080c1e5070b684cf8 -> 
+  custom:scripting/monoscript/fileName/ComplementFilter.cs: 8c6d904118843bd7c3ac329072b1e7bf -> 
+  custom:scripting/monoscript/fileName/LayerFilter.cs: e077d2014f1431925e82af8979171080 -> 
+  custom:scripting/monoscript/fileName/ValueNoise.cs: 5fd3e80ed38b7f3cbaad41b4857480dd -> 
+  custom:scripting/monoscript/fileName/NoiseFieldView.cs: b7a2dbb01a6982fddace5cd39506bf87 -> 
+  custom:scripting/monoscript/fileName/TerrainCreationSettings.cs: 498edb7316432962e83cd369d4324ec0 -> 
+  custom:scripting/monoscript/fileName/ExportNoiseWindow.cs: 0f5b6bac20cd34fc9fda83fb4100c836 -> 
+  custom:scripting/monoscript/fileName/TerrainToolUtility.cs: 244a0f70e48dd3483087b7779dcf1761 -> 
+  custom:scripting/precompiled-assembly-types:Unity.TerrainTools: 758d759d8ee1ceae06a90caf8f0a66c9 -> 
+  custom:scripting/monoscript/fileName/ExportNoiseGUI.cs: bdf46c6765465a3b579f10c67c7b8bc9 -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxSettings.cs: 6c9485898c1d0d4e212a8c7253774f20 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/TerrainPalette.cs: 442c8043e3a423e9bfc363913f2310bc -> 
+  custom:scripting/monoscript/fileName/BrushSpacingVariator.cs: fffe8cd5ea384ad91e99ec1323918e4a -> 
+  custom:scripting/monoscript/fileName/RemapFilter.cs: 239f78308a6dad0764aa10ce8b541586 -> 
+  custom:scripting/monoscript/fileName/CloneBrushTool.cs: 5d261fbce7065a31431e535fdc703077 -> 
+  custom:scripting/monoscript/fileName/PowerFilter.cs: 3f83b308f8aa1802eb1e2d6a05319c53 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/MultiplyFilter.cs: dd63ab1d299eac3771ba4417ba375f67 -> 
+  custom:scripting/monoscript/fileName/MinFilter.cs: 2c244a65e7fa98d1553885f153f1aceb -> 
+  custom:scripting/monoscript/fileName/IBrushSmoothController.cs: 6eba50a9110366b69fa8939e6df9659e -> 
+  custom:scripting/monoscript/fileName/GeneratedShaderInfo.cs: e2948832f770475796b32f4675121e14 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/AspectFilter.cs: fb0af1ff0282a61b75d780590b69db91 -> 
+  custom:scripting/precompiled-assembly-types:Unity.TerrainTools.Editor: f93c768beb09fd323d03ee82db9243a8 -> 
+  custom:scripting/monoscript/fileName/NoiseUtils.cs: faeef5320eb33c91850ada4ff1b45027 -> 
+  custom:scripting/monoscript/fileName/IBrushRenderWithTerrain.cs: cf6f1366b8d01719796bb34375dff90e -> 
+  custom:scripting/monoscript/fileName/DetailsScatterTool.cs: e6f6e1739db2e6af452adcd451b1bac2 -> 
+  custom:scripting/monoscript/fileName/TerrainToolsAnalytics.cs: 65cc3f66f269f7f523161150ae21c342 -> 
+  custom:scripting/monoscript/fileName/ErosionUtility.cs: d23fb9b5d906b1cad40cc60e934bb2ac -> 
+  custom:scripting/monoscript/fileName/BrushJitterHandler.cs: fb326f0fb299994955e1d208d56f8fa5 -> 
+  custom:scripting/monoscript/fileName/IBrushSpacingController.cs: 87c16920c3444812b8c039df8e539072 -> 
+  custom:scripting/monoscript/fileName/Eroder.cs: f6882f2a548240ebabdfee90e26d61a0 -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxLayer.cs: 754aecac0474dff6a654507c8effe965 -> 
+  custom:scripting/monoscript/fileName/ComputeUtility.cs: 3377ececa5b8f78274f4b404ca1e56f3 -> 
+  custom:scripting/monoscript/fileName/OptimizeHeightRange.cs: 33cd2a6f98a1fc3e3692f3dd5a328559 -> 
+  custom:scripting/monoscript/fileName/HlslDescriptions.cs: 2e5c0ec6d81804374463b441c6144b12 -> 
+  custom:scripting/monoscript/fileName/IBrushController.cs: 2c9ed248ab1dc4dc1a8342a91b58bb95 -> 
+  custom:scripting/monoscript/fileName/RidgeNoise.cs: ccf89751d2894a59fb771f5c3ce128d2 -> 
+  custom:scripting/monoscript/fileName/BrushShortcutHandler.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/ToolboxHelper.cs: dbd204f22d75718cc368defb63c01120 -> 
+  custom:scripting/monoscript/fileName/PaintHeightTool.cs: 3c73e63bf78c395ca6006c67bab6dede -> 
+  custom:scripting/monoscript/fileName/HydraulicErosionSettings.cs: ef4c5763f4fa0ad6b8fa4119fe4f1dbd -> 
+  custom:scripting/monoscript/fileName/FilterStackEditor.cs: 5cfe9165094bfe24e8679354fbf3353e -> 
+  custom:scripting/monoscript/fileName/NoiseComponent.cs: faac9ad071075a736b49e9501682bff0 -> 
+  custom:scripting/monoscript/fileName/TerrainGroup.cs: d28e044962126e2fa219bbc37336fe18 -> 
+  custom:scripting/monoscript/fileName/PerlinNoise.cs: f085172d1d085480f961f1bc9b17d375 -> 
+  custom:scripting/monoscript/fileName/IBrushSizeController.cs: a8dfdaac0314a368de1885929b574f29 -> 
+  custom:scripting/monoscript/fileName/BrushRenderWithTerrainUiGroup.cs: 28abd307e1aeeb8776dc5c8c9af0228b -> 
+  custom:scripting/monoscript/fileName/TerrainToolsShaderImporter.cs: 8ec1f896531cfc761ca14d07d2628d75 -> 
+  custom:scripting/monoscript/fileName/WindEroder.cs: e01803fb8046a3bccb677e259da160b8 -> 
+  custom:scripting/monoscript/fileName/DefaultBrushUIGroup.cs: 9a4ee807c9986c373bc11882e51d4f13 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/BrushRenderUIGroupUnderCursor.cs: 1f9c25dc6fe37aa84c0261e472067510 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/BridgeTool.cs: c627f7a34c31e430863f213b336e3138 -> 
+  custom:scripting/monoscript/fileName/TerrainGroupInspector.cs: 2b484e51159ff5010975334ffff60ec0 -> 
+  custom:scripting/monoscript/fileName/AddFilter.cs: 871403347470489ae58c5fe0134bced0 -> 
+  custom:scripting/monoscript/fileName/BrushRotationVariator.cs: 310fd28aa8d1088e0dcac5fcda274b4b -> 
+  custom:scripting/monoscript/fileName/FilterStack.cs: cbb178e0e5f8c9269c19fe65f4a650fb -> 
+  custom:scripting/monoscript/fileName/NoiseFillShaderGenerator.cs: 78dcb01bb90aad146b4765bd2347cd83 -> 
+  custom:scripting/monoscript/fileName/NoiseTemplateImporter.cs: b873a1f5be0140b678ef587728f04b55 -> 
+  custom:scripting/monoscript/fileName/IBrushRenderUnderCursor.cs: 6532e36aa0b5583c5a82fe0dafb29142 -> 
+  custom:scripting/monoscript/fileName/TerrainToolGUIHelper.cs: efaf61c0465611c889a53bb12260cfc2 -> 
+  custom:scripting/monoscript/fileName/ClampFilter.cs: 28c4a03461ff057ab8b6edef6965bacc -> 
+  custom:scripting/monoscript/fileName/NoiseSettings.cs: deb34e83d263704954b02d41a650d753 -> 
+  custom:scripting/monoscript/fileName/TerraceErosion.cs: a4a22fc05e03a7c3a7ce05ce27990b8a -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxCreateTerrain.cs: 5d67d555e81171944fbb5df645d5241b -> 
+  custom:scripting/monoscript/fileName/IPaintContextRender.cs: da306055e7e9ad21d0a466c0b994eb49 -> 
+  custom:scripting/monoscript/fileName/BaseBrushVariator.cs: 8ef2898efa2bacdf62d241846fa96aa2 -> 
+  custom:scripting/monoscript/fileName/NoiseBlitShaderGenerator.cs: a5c81741db49e5e29bc72e29b95058d8 -> 
+  custom:scripting/monoscript/fileName/FilterUtility.cs: 36b2ef192f20260958fc9fd18ecad2ec -> 
+  custom:scripting/monoscript/fileName/IBrushStrengthController.cs: 3cf42935457403d6d2ec2f8c37b55610 -> 
+  custom:scripting/monoscript/fileName/IBrushScatterController.cs: 42b823fdc9f41b6ed5234049695c6deb -> 
+  custom:scripting/monoscript/fileName/IBrushModifierKeyController.cs: 3f44895df2c8b9c413e25173301aa0ed -> 
+  custom:scripting/monoscript/fileName/FilterStackView.cs: 5120ca1b3b69babad91c384f7be7a93f -> 
+  custom:scripting/monoscript/fileName/NoiseSettingsGUI.cs: 3fd552bf1996ce1fdcf5030db72af54e -> 
+  custom:scripting/monoscript/fileName/BrushStrengthVariator.cs: 68d041f4e687e8132acaf3c124109e0c -> 
+  custom:scripting/monoscript/fileName/SlopeFlattenTool.cs: c4256c8a98890165f6af21904025483a -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxWindow.cs: 8e221bd451b65b6533689e552a2b9245 -> 
+  custom:scripting/monoscript/fileName/SmoothHeightTool.cs: f03633799f5b4a4c69fb3bb2f50728d0 -> 
+  custom:scripting/monoscript/fileName/NoiseSettingsFactory.cs: 2d016f87712a0e77014e1475960569e9 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DefaultBrushSmoother.cs: 8a4663b0bdf452a7ec0231edf7c7e564 -> 
+  custom:scripting/monoscript/fileName/StampTool.cs: 4bb33afd9ae3a38d700c95b1909986a8 -> 
+  custom:scripting/monoscript/fileName/NoiseHeightTool.cs: 5c2327f039c1dd37f0d88a0f397af28a -> 
+  custom:scripting/monoscript/fileName/TerrainVisualizationSettings.cs: eb730232c61bbd31248f9ce9aa6395aa -> 
+  custom:scripting/monoscript/fileName/SetHeightTool.cs: 1ff938e56b1c0debf733c201d4541dba -> 
+  custom:scripting/monoscript/fileName/NoiseType.cs: 090ca925c5e6cdbca132221545b83756 -> 
+  custom:scripting/monoscript/fileName/SamplesLinkPackageManagerExtension.cs: 2211f84bf4e5014a6b1f498601323f40 -> 
+  custom:scripting/monoscript/fileName/FbmFractalType.cs: 144f74c3608bf08706204d0849400e88 -> 
+  custom:scripting/monoscript/fileName/NoiseEditorView.cs: e3a1c14dfa4323b65bc284ee321d8c59 -> 
+  custom:scripting/monoscript/fileName/BrushSizeVariator.cs: 74c935e09f8a9b9c52c39f89647c6f39 -> 
+  custom:scripting/monoscript/fileName/RTHandleCollection.cs: 66dbbdfa83cc1e0dae8832345c177e15 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 7961095c189ed6265a679e56f31e8366 -> 
+  custom:scripting/monoscript/fileName/TerrainDetailUtilities.cs: 5449f2c350275fe5d845a715b36197e4 -> 
+  custom:scripting/monoscript/fileName/PaintHolesTool.cs: 344f5d2ec19bc7b41f8eab6be5ce9cbf -> 
+========================================================================
+Received Import Request.
+  Time since last request: 115.718771 seconds.
+  path: Assets/NewLayer.terrainlayer
+  artifactKey: Guid(aaf6228a34063f84e89b0dbf784ddd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewLayer.terrainlayer using Guid(aaf6228a34063f84e89b0dbf784ddd90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '67fc196e6ed0b2e55414b095402846a5') in 0.232491 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.194 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.026 seconds
+Domain Reload Profiling: 6232ms
+	BeginReloadAssembly (947ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (34ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (3ms)
+		CreateAndSetChildDomain (333ms)
+	RebuildCommonClasses (99ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (87ms)
+	LoadAllAssembliesAndSetupDomain (2054ms)
+		LoadAssemblies (2184ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (304ms)
+			TypeCache.Refresh (190ms)
+				TypeCache.ScanAssembly (6ms)
+			ScanForSourceGeneratedMonoScriptInfo (72ms)
+			ResolveRequiredComponents (36ms)
+	FinalizeReload (3027ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1086ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (184ms)
+			ProcessInitializeOnLoadAttributes (817ms)
+			ProcessInitializeOnLoadMethodAttributes (35ms)
+			AfterProcessingInitializeOnLoad (17ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 9.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3118 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 31 unused Assets / (37.3 KB). Loaded Objects now: 3776.
+Memory consumption went from 132.5 MB to 132.4 MB.
+Total: 6.142100 ms (FindLiveObjects: 0.428700 ms CreateObjectMapping: 0.288600 ms MarkObjects: 5.244200 ms  DeleteObjects: 0.179400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/AbsFilter.cs: eec45da3078262aefb7938df118ad87a -> 
+  custom:scripting/monoscript/fileName/BaseBrushUIGroup.cs: f3d79f09b8f41da79d38531e5168ee2f -> 
+  custom:scripting/monoscript/fileName/NoneFractalType.cs: 25da773c57ca61106ec7fc86eb6373a7 -> 
+  custom:scripting/monoscript/fileName/Filter.cs: 44a41dc767ec5f748893880acf05c662 -> 935824dbebf762a19f2d4c4751625fe2
+  custom:scripting/monoscript/fileName/FractalType.cs: f0a68b0494c41002f9f945e7b71b1216 -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxUtilities.cs: a5dc108d5220e4b94b4ed137a0e429e4 -> 
+  custom:scripting/monoscript/fileName/SmudgeHeight.cs: 1462c04302f0981db09154b1f7d81802 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/NoiseLib.cs: b7278e7e0a44a273dd60f7ead0b281ae -> 
+  custom:scripting/monoscript/fileName/Heightmap.cs: b6d87f35c7d6c551db3a13a7afd2d798 -> 
+  custom:scripting/monoscript/fileName/TerrainFillUtility.cs: bb73b867a8925602f4fa7777c7a52e7a -> 
+  custom:scripting/monoscript/fileName/IBrushUIGroup.cs: c361cdf51dd0f7ebe4a43835a80dab24 -> 
+  custom:scripting/monoscript/fileName/BillowNoise.cs: 42426f7a4645fd7a235799b5cdc32b0b -> 
+  custom:scripting/monoscript/fileName/ConcavityFilter.cs: c1dd85d05ea4b694d69b549cc2dca1a3 -> 
+  custom:scripting/monoscript/fileName/DistributionSliderGUI.cs: cd4735ccbcd1478ef10d1340797ec107 -> 
+  custom:scripting/monoscript/fileName/PaintTextureTool.cs: e6a804b11f28ca65760cf1d61e47057b -> 
+  custom:scripting/monoscript/fileName/VoronoiNoise.cs: ee0a21c6257a3f0f119e4e766436da28 -> 
+  custom:scripting/monoscript/fileName/IBrushTerrainCache.cs: 90369d5d4a044058c0a92f0a57cff9cd -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxVisualization.cs: 51cab2dadf57114a9411397e4253d36c -> 
+  custom:scripting/monoscript/fileName/SharpenPeaksTool.cs: 4c81589f7e304310b9bf07e39770a962 -> 
+  custom:scripting/monoscript/fileName/ContrastTool.cs: 4c1951307605f0beec328a06a898d6af -> 
+  custom:scripting/monoscript/fileName/BrushScatterVariator.cs: 4b7c31aad2fb4696955a4c583080b06a -> 
+  custom:scripting/monoscript/fileName/TerrainSettings.cs: b5aea35d6e71e77b46eeffa77017f635 -> 
+  custom:scripting/monoscript/fileName/PinchHeight.cs: c73bbe9e2240fabf64b31107b1b23686 -> 
+  custom:scripting/monoscript/fileName/HydroErosion.cs: 84af384610ac3cf14ed423f2a226188b -> 
+  custom:scripting/monoscript/fileName/NoiseWindow.cs: 0d20bf0d60a95f1f4ca7bb9fe67398f3 -> 
+  custom:scripting/monoscript/fileName/MaxFilter.cs: b81408d5c0bb352d5436a4eace4516b2 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/DefaultBrushModifierKeys.cs: 6c3a5d7cd4a937da22e560786986baaa -> 
+  custom:scripting/monoscript/fileName/ThermalEroder.cs: 7e69c1378b1cd9cce2a8340a7e2b8578 -> 
+  custom:scripting/monoscript/fileName/HydraulicEroder.cs: 64e38060f50350f17719a98702355076 -> 
+  custom:scripting/monoscript/fileName/NoiseShaderGenerator.cs: da5831cc2231959a934e78f759d5ded8 -> 
+  custom:scripting/monoscript/fileName/NegateFilter.cs: 7c13689d916cde667e62e8d68c682c17 -> 
+  custom:scripting/monoscript/fileName/CameraFreeflight.cs: 921d2c9111d80537a1c6f5299550ad1c -> 
+  custom:scripting/monoscript/fileName/WindErosionTool.cs: c4fabfff0628525ee3df83e562f7560c -> 
+  custom:scripting/monoscript/fileName/SlopeFilter.cs: e667eecb9e19a65e593fbc4a499591c2 -> 
+  custom:scripting/monoscript/fileName/IBrushRotationController.cs: e23e00c29daa2db4793adaf7bb5003c3 -> 
+  custom:scripting/monoscript/fileName/NoiseComponentEditor.cs: a42f479c5eae3b41397b90f2a38d3f4a -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/StrataFractalType.cs: ded195ca740e1d5403d9cd63e10add13 -> 
+  custom:scripting/monoscript/fileName/FilterContext.cs: ed947e57b2f8dfddca5bb2ca357713a8 -> 
+  custom:scripting/monoscript/fileName/HeightFilter.cs: 93c471cfcb972607d950b4436271ba09 -> 
+  custom:scripting/monoscript/fileName/NoiseFilter.cs: 26ebbe64769f7ff707c19b1da586af35 -> 
+  custom:scripting/monoscript/fileName/TwistHeight.cs: 4d6e84dc15af95271f9879bac25b45a0 -> 
+  custom:scripting/monoscript/fileName/IBrushEventHandler.cs: 648ef116e9374d8323af7e53add8a21d -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/BlurFilter.cs: 4bded063ee5a1d630a11ba413c1b48a1 -> 
+  custom:scripting/monoscript/fileName/ThermalErosionTool.cs: 5f881ed20a33bb3f8edf03dcbde9dd39 -> 
+  custom:scripting/monoscript/fileName/NoiseSettingsAssetEditor.cs: 73af756cb55ed1a080c1e5070b684cf8 -> 
+  custom:scripting/monoscript/fileName/ComplementFilter.cs: 8c6d904118843bd7c3ac329072b1e7bf -> 
+  custom:scripting/monoscript/fileName/LayerFilter.cs: e077d2014f1431925e82af8979171080 -> 
+  custom:scripting/monoscript/fileName/ValueNoise.cs: 5fd3e80ed38b7f3cbaad41b4857480dd -> 
+  custom:scripting/monoscript/fileName/NoiseFieldView.cs: b7a2dbb01a6982fddace5cd39506bf87 -> 
+  custom:scripting/monoscript/fileName/TerrainCreationSettings.cs: 498edb7316432962e83cd369d4324ec0 -> 
+  custom:scripting/monoscript/fileName/ExportNoiseWindow.cs: 0f5b6bac20cd34fc9fda83fb4100c836 -> 
+  custom:scripting/monoscript/fileName/TerrainToolUtility.cs: 244a0f70e48dd3483087b7779dcf1761 -> 
+  custom:scripting/monoscript/fileName/ExportNoiseGUI.cs: bdf46c6765465a3b579f10c67c7b8bc9 -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxSettings.cs: 6c9485898c1d0d4e212a8c7253774f20 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/TerrainPalette.cs: 442c8043e3a423e9bfc363913f2310bc -> 
+  custom:scripting/monoscript/fileName/BrushSpacingVariator.cs: fffe8cd5ea384ad91e99ec1323918e4a -> 
+  custom:scripting/monoscript/fileName/RemapFilter.cs: 239f78308a6dad0764aa10ce8b541586 -> 
+  custom:scripting/monoscript/fileName/CloneBrushTool.cs: 5d261fbce7065a31431e535fdc703077 -> 
+  custom:scripting/monoscript/fileName/PowerFilter.cs: 3f83b308f8aa1802eb1e2d6a05319c53 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/MultiplyFilter.cs: dd63ab1d299eac3771ba4417ba375f67 -> 
+  custom:scripting/monoscript/fileName/MinFilter.cs: 2c244a65e7fa98d1553885f153f1aceb -> 
+  custom:scripting/monoscript/fileName/IBrushSmoothController.cs: 6eba50a9110366b69fa8939e6df9659e -> 
+  custom:scripting/monoscript/fileName/GeneratedShaderInfo.cs: e2948832f770475796b32f4675121e14 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/AspectFilter.cs: fb0af1ff0282a61b75d780590b69db91 -> 
+  custom:scripting/monoscript/fileName/NoiseUtils.cs: faeef5320eb33c91850ada4ff1b45027 -> 
+  custom:scripting/monoscript/fileName/IBrushRenderWithTerrain.cs: cf6f1366b8d01719796bb34375dff90e -> 
+  custom:scripting/monoscript/fileName/DetailsScatterTool.cs: e6f6e1739db2e6af452adcd451b1bac2 -> 
+  custom:scripting/monoscript/fileName/TerrainToolsAnalytics.cs: 65cc3f66f269f7f523161150ae21c342 -> 
+  custom:scripting/monoscript/fileName/ErosionUtility.cs: d23fb9b5d906b1cad40cc60e934bb2ac -> 
+  custom:scripting/monoscript/fileName/BrushJitterHandler.cs: fb326f0fb299994955e1d208d56f8fa5 -> 
+  custom:scripting/monoscript/fileName/IBrushSpacingController.cs: 87c16920c3444812b8c039df8e539072 -> 
+  custom:scripting/monoscript/fileName/Eroder.cs: f6882f2a548240ebabdfee90e26d61a0 -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxLayer.cs: 754aecac0474dff6a654507c8effe965 -> 
+  custom:scripting/monoscript/fileName/ComputeUtility.cs: 3377ececa5b8f78274f4b404ca1e56f3 -> 
+  custom:scripting/monoscript/fileName/OptimizeHeightRange.cs: 33cd2a6f98a1fc3e3692f3dd5a328559 -> 
+  custom:scripting/monoscript/fileName/HlslDescriptions.cs: 2e5c0ec6d81804374463b441c6144b12 -> 
+  custom:scripting/monoscript/fileName/IBrushController.cs: 2c9ed248ab1dc4dc1a8342a91b58bb95 -> 
+  custom:scripting/monoscript/fileName/RidgeNoise.cs: ccf89751d2894a59fb771f5c3ce128d2 -> 
+  custom:scripting/monoscript/fileName/BrushShortcutHandler.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/ToolboxHelper.cs: dbd204f22d75718cc368defb63c01120 -> 
+  custom:scripting/monoscript/fileName/PaintHeightTool.cs: 3c73e63bf78c395ca6006c67bab6dede -> 
+  custom:scripting/monoscript/fileName/HydraulicErosionSettings.cs: ef4c5763f4fa0ad6b8fa4119fe4f1dbd -> 
+  custom:scripting/monoscript/fileName/FilterStackEditor.cs: 5cfe9165094bfe24e8679354fbf3353e -> 
+  custom:scripting/monoscript/fileName/NoiseComponent.cs: faac9ad071075a736b49e9501682bff0 -> 
+  custom:scripting/monoscript/fileName/TerrainGroup.cs: d28e044962126e2fa219bbc37336fe18 -> 
+  custom:scripting/monoscript/fileName/PerlinNoise.cs: f085172d1d085480f961f1bc9b17d375 -> 
+  custom:scripting/monoscript/fileName/IBrushSizeController.cs: a8dfdaac0314a368de1885929b574f29 -> 
+  custom:scripting/monoscript/fileName/BrushRenderWithTerrainUiGroup.cs: 28abd307e1aeeb8776dc5c8c9af0228b -> 
+  custom:scripting/monoscript/fileName/TerrainToolsShaderImporter.cs: 8ec1f896531cfc761ca14d07d2628d75 -> 
+  custom:scripting/monoscript/fileName/WindEroder.cs: e01803fb8046a3bccb677e259da160b8 -> 
+  custom:scripting/monoscript/fileName/DefaultBrushUIGroup.cs: 9a4ee807c9986c373bc11882e51d4f13 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/BrushRenderUIGroupUnderCursor.cs: 1f9c25dc6fe37aa84c0261e472067510 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/BridgeTool.cs: c627f7a34c31e430863f213b336e3138 -> 
+  custom:scripting/monoscript/fileName/TerrainGroupInspector.cs: 2b484e51159ff5010975334ffff60ec0 -> 
+  custom:scripting/monoscript/fileName/AddFilter.cs: 871403347470489ae58c5fe0134bced0 -> 
+  custom:scripting/monoscript/fileName/BrushRotationVariator.cs: 310fd28aa8d1088e0dcac5fcda274b4b -> 
+  custom:scripting/monoscript/fileName/FilterStack.cs: cbb178e0e5f8c9269c19fe65f4a650fb -> 
+  custom:scripting/monoscript/fileName/NoiseFillShaderGenerator.cs: 78dcb01bb90aad146b4765bd2347cd83 -> 
+  custom:scripting/monoscript/fileName/NoiseTemplateImporter.cs: b873a1f5be0140b678ef587728f04b55 -> 
+  custom:scripting/monoscript/fileName/IBrushRenderUnderCursor.cs: 6532e36aa0b5583c5a82fe0dafb29142 -> 
+  custom:scripting/monoscript/fileName/TerrainToolGUIHelper.cs: efaf61c0465611c889a53bb12260cfc2 -> 
+  custom:scripting/monoscript/fileName/ClampFilter.cs: 28c4a03461ff057ab8b6edef6965bacc -> 
+  custom:scripting/monoscript/fileName/NoiseSettings.cs: deb34e83d263704954b02d41a650d753 -> 
+  custom:scripting/monoscript/fileName/TerraceErosion.cs: a4a22fc05e03a7c3a7ce05ce27990b8a -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxCreateTerrain.cs: 5d67d555e81171944fbb5df645d5241b -> 
+  custom:scripting/monoscript/fileName/IPaintContextRender.cs: da306055e7e9ad21d0a466c0b994eb49 -> 
+  custom:scripting/monoscript/fileName/BaseBrushVariator.cs: 8ef2898efa2bacdf62d241846fa96aa2 -> 
+  custom:scripting/monoscript/fileName/NoiseBlitShaderGenerator.cs: a5c81741db49e5e29bc72e29b95058d8 -> 
+  custom:scripting/monoscript/fileName/FilterUtility.cs: 36b2ef192f20260958fc9fd18ecad2ec -> 
+  custom:scripting/monoscript/fileName/IBrushStrengthController.cs: 3cf42935457403d6d2ec2f8c37b55610 -> 
+  custom:scripting/monoscript/fileName/IBrushScatterController.cs: 42b823fdc9f41b6ed5234049695c6deb -> 
+  custom:scripting/monoscript/fileName/IBrushModifierKeyController.cs: 3f44895df2c8b9c413e25173301aa0ed -> 
+  custom:scripting/monoscript/fileName/FilterStackView.cs: 5120ca1b3b69babad91c384f7be7a93f -> 
+  custom:scripting/monoscript/fileName/NoiseSettingsGUI.cs: 3fd552bf1996ce1fdcf5030db72af54e -> 
+  custom:scripting/monoscript/fileName/BrushStrengthVariator.cs: 68d041f4e687e8132acaf3c124109e0c -> 
+  custom:scripting/monoscript/fileName/SlopeFlattenTool.cs: c4256c8a98890165f6af21904025483a -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxWindow.cs: 8e221bd451b65b6533689e552a2b9245 -> 
+  custom:scripting/monoscript/fileName/SmoothHeightTool.cs: f03633799f5b4a4c69fb3bb2f50728d0 -> 
+  custom:scripting/monoscript/fileName/NoiseSettingsFactory.cs: 2d016f87712a0e77014e1475960569e9 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DefaultBrushSmoother.cs: 8a4663b0bdf452a7ec0231edf7c7e564 -> 
+  custom:scripting/monoscript/fileName/StampTool.cs: 4bb33afd9ae3a38d700c95b1909986a8 -> 
+  custom:scripting/monoscript/fileName/NoiseHeightTool.cs: 5c2327f039c1dd37f0d88a0f397af28a -> 
+  custom:scripting/monoscript/fileName/TerrainVisualizationSettings.cs: eb730232c61bbd31248f9ce9aa6395aa -> 
+  custom:scripting/monoscript/fileName/SetHeightTool.cs: 1ff938e56b1c0debf733c201d4541dba -> 
+  custom:scripting/monoscript/fileName/NoiseType.cs: 090ca925c5e6cdbca132221545b83756 -> 
+  custom:scripting/monoscript/fileName/SamplesLinkPackageManagerExtension.cs: 2211f84bf4e5014a6b1f498601323f40 -> 
+  custom:scripting/monoscript/fileName/FbmFractalType.cs: 144f74c3608bf08706204d0849400e88 -> 
+  custom:scripting/monoscript/fileName/NoiseEditorView.cs: e3a1c14dfa4323b65bc284ee321d8c59 -> 
+  custom:scripting/monoscript/fileName/BrushSizeVariator.cs: 74c935e09f8a9b9c52c39f89647c6f39 -> 
+  custom:scripting/monoscript/fileName/RTHandleCollection.cs: 66dbbdfa83cc1e0dae8832345c177e15 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 7961095c189ed6265a679e56f31e8366 -> 
+  custom:scripting/monoscript/fileName/TerrainDetailUtilities.cs: 5449f2c350275fe5d845a715b36197e4 -> 
+  custom:scripting/monoscript/fileName/PaintHolesTool.cs: 344f5d2ec19bc7b41f8eab6be5ce9cbf -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  3.571 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.204 seconds
+Domain Reload Profiling: 6773ms
+	BeginReloadAssembly (1735ms)
+		ExecutionOrderSort (1ms)
+		DisableScriptedObjects (41ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (9ms)
+		CreateAndSetChildDomain (1014ms)
+	RebuildCommonClasses (78ms)
+	RebuildNativeTypeToScriptingClass (27ms)
+	initialDomainReloadingComplete (110ms)
+	LoadAllAssembliesAndSetupDomain (1618ms)
+		LoadAssemblies (1873ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (167ms)
+			TypeCache.Refresh (109ms)
+				TypeCache.ScanAssembly (7ms)
+			ScanForSourceGeneratedMonoScriptInfo (38ms)
+			ResolveRequiredComponents (18ms)
+	FinalizeReload (3206ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (901ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (127ms)
+			ProcessInitializeOnLoadAttributes (686ms)
+			ProcessInitializeOnLoadMethodAttributes (36ms)
+			AfterProcessingInitializeOnLoad (16ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Refreshing native plugins compatible for Editor in 17.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3133 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (11.9 MB). Loaded Objects now: 3786.
+Memory consumption went from 146.7 MB to 134.8 MB.
+Total: 22.638800 ms (FindLiveObjects: 2.088600 ms CreateObjectMapping: 0.420800 ms MarkObjects: 17.722500 ms  DeleteObjects: 2.404600 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/AbsFilter.cs: eec45da3078262aefb7938df118ad87a -> 
+  custom:scripting/monoscript/fileName/BaseBrushUIGroup.cs: f3d79f09b8f41da79d38531e5168ee2f -> 
+  custom:scripting/monoscript/fileName/NoneFractalType.cs: 25da773c57ca61106ec7fc86eb6373a7 -> 
+  custom:scripting/monoscript/fileName/Filter.cs: 44a41dc767ec5f748893880acf05c662 -> 935824dbebf762a19f2d4c4751625fe2
+  custom:scripting/monoscript/fileName/FractalType.cs: f0a68b0494c41002f9f945e7b71b1216 -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxUtilities.cs: a5dc108d5220e4b94b4ed137a0e429e4 -> 
+  custom:scripting/monoscript/fileName/SmudgeHeight.cs: 1462c04302f0981db09154b1f7d81802 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/ALP8310_ControllerStyle.cs: b4e3244d52e60dc6e64e6486a1a63e10 -> 
+  custom:scripting/monoscript/fileName/NoiseLib.cs: b7278e7e0a44a273dd60f7ead0b281ae -> 
+  custom:scripting/monoscript/fileName/ALP8310_ShaderGUI.cs: 29591556036da59d0a1ca48a315092a5 -> 
+  custom:scripting/monoscript/fileName/Heightmap.cs: b6d87f35c7d6c551db3a13a7afd2d798 -> 
+  custom:scripting/monoscript/fileName/TerrainFillUtility.cs: bb73b867a8925602f4fa7777c7a52e7a -> 
+  custom:scripting/monoscript/fileName/IBrushUIGroup.cs: c361cdf51dd0f7ebe4a43835a80dab24 -> 
+  custom:scripting/monoscript/fileName/BillowNoise.cs: 42426f7a4645fd7a235799b5cdc32b0b -> 
+  custom:scripting/monoscript/fileName/ConcavityFilter.cs: c1dd85d05ea4b694d69b549cc2dca1a3 -> 
+  custom:scripting/monoscript/fileName/DistributionSliderGUI.cs: cd4735ccbcd1478ef10d1340797ec107 -> 
+  custom:scripting/monoscript/fileName/PaintTextureTool.cs: e6a804b11f28ca65760cf1d61e47057b -> 
+  custom:scripting/monoscript/fileName/ALP8310_ShaderDrawers.cs: 38149b3ead3d3b20f6b4821159ab4219 -> 
+  custom:scripting/monoscript/fileName/VoronoiNoise.cs: ee0a21c6257a3f0f119e4e766436da28 -> 
+  custom:scripting/monoscript/fileName/IBrushTerrainCache.cs: 90369d5d4a044058c0a92f0a57cff9cd -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxVisualization.cs: 51cab2dadf57114a9411397e4253d36c -> 
+  custom:scripting/monoscript/fileName/SharpenPeaksTool.cs: 4c81589f7e304310b9bf07e39770a962 -> 
+  custom:scripting/monoscript/fileName/ContrastTool.cs: 4c1951307605f0beec328a06a898d6af -> 
+  custom:scripting/monoscript/fileName/BrushScatterVariator.cs: 4b7c31aad2fb4696955a4c583080b06a -> 
+  custom:scripting/monoscript/fileName/TerrainSettings.cs: b5aea35d6e71e77b46eeffa77017f635 -> 
+  custom:scripting/monoscript/fileName/PinchHeight.cs: c73bbe9e2240fabf64b31107b1b23686 -> 
+  custom:scripting/monoscript/fileName/HydroErosion.cs: 84af384610ac3cf14ed423f2a226188b -> 
+  custom:scripting/monoscript/fileName/NoiseWindow.cs: 0d20bf0d60a95f1f4ca7bb9fe67398f3 -> 
+  custom:scripting/monoscript/fileName/MaxFilter.cs: b81408d5c0bb352d5436a4eace4516b2 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/DefaultBrushModifierKeys.cs: 6c3a5d7cd4a937da22e560786986baaa -> 
+  custom:scripting/monoscript/fileName/ThermalEroder.cs: 7e69c1378b1cd9cce2a8340a7e2b8578 -> 
+  custom:scripting/monoscript/fileName/HydraulicEroder.cs: 64e38060f50350f17719a98702355076 -> 
+  custom:scripting/monoscript/fileName/NoiseShaderGenerator.cs: da5831cc2231959a934e78f759d5ded8 -> 
+  custom:scripting/monoscript/fileName/NegateFilter.cs: 7c13689d916cde667e62e8d68c682c17 -> 
+  custom:scripting/monoscript/fileName/CameraFreeflight.cs: 921d2c9111d80537a1c6f5299550ad1c -> 
+  custom:scripting/monoscript/fileName/WindErosionTool.cs: c4fabfff0628525ee3df83e562f7560c -> 
+  custom:scripting/monoscript/fileName/SlopeFilter.cs: e667eecb9e19a65e593fbc4a499591c2 -> 
+  custom:scripting/monoscript/fileName/IBrushRotationController.cs: e23e00c29daa2db4793adaf7bb5003c3 -> 
+  custom:scripting/monoscript/fileName/NoiseComponentEditor.cs: a42f479c5eae3b41397b90f2a38d3f4a -> 
+  custom:CustomObjectIndexerAttribute: 9a22284fe3817be447336de3de66b15e -> 
+  custom:scripting/monoscript/fileName/StrataFractalType.cs: ded195ca740e1d5403d9cd63e10add13 -> 
+  custom:scripting/monoscript/fileName/FilterContext.cs: ed947e57b2f8dfddca5bb2ca357713a8 -> 
+  custom:scripting/monoscript/fileName/HeightFilter.cs: 93c471cfcb972607d950b4436271ba09 -> 
+  custom:scripting/monoscript/fileName/NoiseFilter.cs: 26ebbe64769f7ff707c19b1da586af35 -> 
+  custom:scripting/monoscript/fileName/TwistHeight.cs: 4d6e84dc15af95271f9879bac25b45a0 -> 
+  custom:scripting/monoscript/fileName/IBrushEventHandler.cs: 648ef116e9374d8323af7e53add8a21d -> 
+  custom:scripting/monoscript/fileName/ALP8310_ControllerGlobalEditor.cs: 939c570d0a7144347aa868139f680dbb -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/precompiled-assembly-types:ALP8310_ControllerGlobal.Editor: c38a68786f2c2a207a51da493235e5e7 -> 
+  custom:scripting/monoscript/fileName/BlurFilter.cs: 4bded063ee5a1d630a11ba413c1b48a1 -> 
+  custom:scripting/monoscript/fileName/ThermalErosionTool.cs: 5f881ed20a33bb3f8edf03dcbde9dd39 -> 
+  custom:scripting/monoscript/fileName/NoiseSettingsAssetEditor.cs: 73af756cb55ed1a080c1e5070b684cf8 -> 
+  custom:scripting/monoscript/fileName/ComplementFilter.cs: 8c6d904118843bd7c3ac329072b1e7bf -> 
+  custom:scripting/monoscript/fileName/LayerFilter.cs: e077d2014f1431925e82af8979171080 -> 
+  custom:scripting/monoscript/fileName/ValueNoise.cs: 5fd3e80ed38b7f3cbaad41b4857480dd -> 
+  custom:scripting/precompiled-assembly-types:ALP8310_ControllerGlobal: 5c270bf33a7ced3eefe7d4855daf5c6e -> 
+  custom:scripting/monoscript/fileName/NoiseFieldView.cs: b7a2dbb01a6982fddace5cd39506bf87 -> 
+  custom:scripting/monoscript/fileName/TerrainCreationSettings.cs: 498edb7316432962e83cd369d4324ec0 -> 
+  custom:scripting/monoscript/fileName/ExportNoiseWindow.cs: 0f5b6bac20cd34fc9fda83fb4100c836 -> 
+  custom:scripting/monoscript/fileName/TerrainToolUtility.cs: 244a0f70e48dd3483087b7779dcf1761 -> 
+  custom:scripting/monoscript/fileName/ExportNoiseGUI.cs: bdf46c6765465a3b579f10c67c7b8bc9 -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxSettings.cs: 6c9485898c1d0d4e212a8c7253774f20 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/TerrainPalette.cs: 442c8043e3a423e9bfc363913f2310bc -> 
+  custom:scripting/monoscript/fileName/BrushSpacingVariator.cs: fffe8cd5ea384ad91e99ec1323918e4a -> 
+  custom:scripting/monoscript/fileName/RemapFilter.cs: 239f78308a6dad0764aa10ce8b541586 -> 
+  custom:scripting/monoscript/fileName/CloneBrushTool.cs: 5d261fbce7065a31431e535fdc703077 -> 
+  custom:scripting/monoscript/fileName/PowerFilter.cs: 3f83b308f8aa1802eb1e2d6a05319c53 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/MultiplyFilter.cs: dd63ab1d299eac3771ba4417ba375f67 -> 
+  custom:scripting/monoscript/fileName/MinFilter.cs: 2c244a65e7fa98d1553885f153f1aceb -> 
+  custom:scripting/monoscript/fileName/IBrushSmoothController.cs: 6eba50a9110366b69fa8939e6df9659e -> 
+  custom:scripting/monoscript/fileName/GeneratedShaderInfo.cs: e2948832f770475796b32f4675121e14 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/ALP8310_ControllerGlobal.cs: 78617591c02268a0ff549bc6d927dfca -> 
+  custom:scripting/monoscript/fileName/AspectFilter.cs: fb0af1ff0282a61b75d780590b69db91 -> 
+  custom:scripting/monoscript/fileName/NoiseUtils.cs: faeef5320eb33c91850ada4ff1b45027 -> 
+  custom:scripting/monoscript/fileName/IBrushRenderWithTerrain.cs: cf6f1366b8d01719796bb34375dff90e -> 
+  custom:scripting/monoscript/fileName/DetailsScatterTool.cs: e6f6e1739db2e6af452adcd451b1bac2 -> 
+  custom:scripting/monoscript/fileName/TerrainToolsAnalytics.cs: 65cc3f66f269f7f523161150ae21c342 -> 
+  custom:scripting/monoscript/fileName/ErosionUtility.cs: d23fb9b5d906b1cad40cc60e934bb2ac -> 
+  custom:scripting/monoscript/fileName/BrushJitterHandler.cs: fb326f0fb299994955e1d208d56f8fa5 -> 
+  custom:scripting/monoscript/fileName/IBrushSpacingController.cs: 87c16920c3444812b8c039df8e539072 -> 
+  custom:scripting/monoscript/fileName/Eroder.cs: f6882f2a548240ebabdfee90e26d61a0 -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxLayer.cs: 754aecac0474dff6a654507c8effe965 -> 
+  custom:scripting/monoscript/fileName/ComputeUtility.cs: 3377ececa5b8f78274f4b404ca1e56f3 -> 
+  custom:scripting/monoscript/fileName/OptimizeHeightRange.cs: 33cd2a6f98a1fc3e3692f3dd5a328559 -> 
+  custom:scripting/monoscript/fileName/HlslDescriptions.cs: 2e5c0ec6d81804374463b441c6144b12 -> 
+  custom:scripting/monoscript/fileName/IBrushController.cs: 2c9ed248ab1dc4dc1a8342a91b58bb95 -> 
+  custom:scripting/monoscript/fileName/RidgeNoise.cs: ccf89751d2894a59fb771f5c3ce128d2 -> 
+  custom:scripting/monoscript/fileName/BrushShortcutHandler.cs: 90647cc400823b41df847a6cbfc29026 -> 
+  custom:scripting/monoscript/fileName/ToolboxHelper.cs: dbd204f22d75718cc368defb63c01120 -> 
+  custom:scripting/monoscript/fileName/PaintHeightTool.cs: 3c73e63bf78c395ca6006c67bab6dede -> 
+  custom:scripting/monoscript/fileName/HydraulicErosionSettings.cs: ef4c5763f4fa0ad6b8fa4119fe4f1dbd -> 
+  custom:scripting/monoscript/fileName/FilterStackEditor.cs: 5cfe9165094bfe24e8679354fbf3353e -> 
+  custom:scripting/monoscript/fileName/NoiseComponent.cs: faac9ad071075a736b49e9501682bff0 -> 
+  custom:scripting/monoscript/fileName/TerrainGroup.cs: d28e044962126e2fa219bbc37336fe18 -> 
+  custom:scripting/monoscript/fileName/PerlinNoise.cs: f085172d1d085480f961f1bc9b17d375 -> 
+  custom:scripting/monoscript/fileName/IBrushSizeController.cs: a8dfdaac0314a368de1885929b574f29 -> 
+  custom:scripting/monoscript/fileName/BrushRenderWithTerrainUiGroup.cs: 28abd307e1aeeb8776dc5c8c9af0228b -> 
+  custom:scripting/monoscript/fileName/TerrainToolsShaderImporter.cs: 8ec1f896531cfc761ca14d07d2628d75 -> 
+  custom:scripting/monoscript/fileName/WindEroder.cs: e01803fb8046a3bccb677e259da160b8 -> 
+  custom:scripting/monoscript/fileName/DefaultBrushUIGroup.cs: 9a4ee807c9986c373bc11882e51d4f13 -> 
+  custom:scripting/monoscript/fileName/ALP8310_LightsSettings.cs: 6f68504aa2d25f659106fb284a0b3b0d -> 
+  custom:scripting/monoscript/fileName/ALP8310_GlobalLightingWindow.cs: dc10a6087d37dafaccc910cdfe84e8a5 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/BrushRenderUIGroupUnderCursor.cs: 1f9c25dc6fe37aa84c0261e472067510 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/BridgeTool.cs: c627f7a34c31e430863f213b336e3138 -> 
+  custom:scripting/monoscript/fileName/TerrainGroupInspector.cs: 2b484e51159ff5010975334ffff60ec0 -> 
+  custom:scripting/monoscript/fileName/AddFilter.cs: 871403347470489ae58c5fe0134bced0 -> 
+  custom:scripting/monoscript/fileName/BrushRotationVariator.cs: 310fd28aa8d1088e0dcac5fcda274b4b -> 
+  custom:scripting/monoscript/fileName/FilterStack.cs: cbb178e0e5f8c9269c19fe65f4a650fb -> 
+  custom:scripting/monoscript/fileName/NoiseFillShaderGenerator.cs: 78dcb01bb90aad146b4765bd2347cd83 -> 
+  custom:scripting/monoscript/fileName/NoiseTemplateImporter.cs: b873a1f5be0140b678ef587728f04b55 -> 
+  custom:scripting/monoscript/fileName/IBrushRenderUnderCursor.cs: 6532e36aa0b5583c5a82fe0dafb29142 -> 
+  custom:scripting/monoscript/fileName/TerrainToolGUIHelper.cs: efaf61c0465611c889a53bb12260cfc2 -> 
+  custom:scripting/monoscript/fileName/ClampFilter.cs: 28c4a03461ff057ab8b6edef6965bacc -> 
+  custom:scripting/monoscript/fileName/NoiseSettings.cs: deb34e83d263704954b02d41a650d753 -> 
+  custom:scripting/monoscript/fileName/TerraceErosion.cs: a4a22fc05e03a7c3a7ce05ce27990b8a -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxCreateTerrain.cs: 5d67d555e81171944fbb5df645d5241b -> 
+  custom:scripting/monoscript/fileName/IPaintContextRender.cs: da306055e7e9ad21d0a466c0b994eb49 -> 
+  custom:scripting/monoscript/fileName/BaseBrushVariator.cs: 8ef2898efa2bacdf62d241846fa96aa2 -> 
+  custom:scripting/monoscript/fileName/NoiseBlitShaderGenerator.cs: a5c81741db49e5e29bc72e29b95058d8 -> 
+  custom:scripting/monoscript/fileName/FilterUtility.cs: 36b2ef192f20260958fc9fd18ecad2ec -> 
+  custom:scripting/monoscript/fileName/IBrushStrengthController.cs: 3cf42935457403d6d2ec2f8c37b55610 -> 
+  custom:scripting/monoscript/fileName/IBrushScatterController.cs: 42b823fdc9f41b6ed5234049695c6deb -> 
+  custom:scripting/monoscript/fileName/IBrushModifierKeyController.cs: 3f44895df2c8b9c413e25173301aa0ed -> 
+  custom:scripting/monoscript/fileName/FilterStackView.cs: 5120ca1b3b69babad91c384f7be7a93f -> 
+  custom:scripting/monoscript/fileName/NoiseSettingsGUI.cs: 3fd552bf1996ce1fdcf5030db72af54e -> 
+  custom:scripting/monoscript/fileName/BrushStrengthVariator.cs: 68d041f4e687e8132acaf3c124109e0c -> 
+  custom:scripting/monoscript/fileName/SlopeFlattenTool.cs: c4256c8a98890165f6af21904025483a -> 
+  custom:scripting/monoscript/fileName/TerrainToolboxWindow.cs: 8e221bd451b65b6533689e552a2b9245 -> 
+  custom:scripting/monoscript/fileName/SmoothHeightTool.cs: f03633799f5b4a4c69fb3bb2f50728d0 -> 
+  custom:scripting/monoscript/fileName/NoiseSettingsFactory.cs: 2d016f87712a0e77014e1475960569e9 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/DefaultBrushSmoother.cs: 8a4663b0bdf452a7ec0231edf7c7e564 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: f9e8bbbd7668c9c1972ac66df8e7b2a7 -> 
+  custom:scripting/monoscript/fileName/StampTool.cs: 4bb33afd9ae3a38d700c95b1909986a8 -> 
+  custom:scripting/monoscript/fileName/NoiseHeightTool.cs: 5c2327f039c1dd37f0d88a0f397af28a -> 
+  custom:scripting/monoscript/fileName/TerrainVisualizationSettings.cs: eb730232c61bbd31248f9ce9aa6395aa -> 
+  custom:scripting/monoscript/fileName/SetHeightTool.cs: 1ff938e56b1c0debf733c201d4541dba -> 
+  custom:scripting/monoscript/fileName/NoiseType.cs: 090ca925c5e6cdbca132221545b83756 -> 
+  custom:scripting/monoscript/fileName/SamplesLinkPackageManagerExtension.cs: 2211f84bf4e5014a6b1f498601323f40 -> 
+  custom:scripting/monoscript/fileName/FbmFractalType.cs: 144f74c3608bf08706204d0849400e88 -> 
+  custom:scripting/monoscript/fileName/NoiseEditorView.cs: e3a1c14dfa4323b65bc284ee321d8c59 -> 
+  custom:scripting/monoscript/fileName/BrushSizeVariator.cs: 74c935e09f8a9b9c52c39f89647c6f39 -> 
+  custom:scripting/monoscript/fileName/RTHandleCollection.cs: 66dbbdfa83cc1e0dae8832345c177e15 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 7961095c189ed6265a679e56f31e8366 -> 
+  custom:scripting/monoscript/fileName/TerrainDetailUtilities.cs: 5449f2c350275fe5d845a715b36197e4 -> 
+  custom:scripting/monoscript/fileName/PaintHolesTool.cs: 344f5d2ec19bc7b41f8eab6be5ce9cbf -> 
+========================================================================
+Received Import Request.
+  Time since last request: 617.098752 seconds.
+  path: Assets/ALP_Assets/Poplar Tree FREE/TerrainLayers/DarkBrown.terrainlayer
+  artifactKey: Guid(972363d45fc35ca45bed6922c777f81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ALP_Assets/Poplar Tree FREE/TerrainLayers/DarkBrown.terrainlayer using Guid(972363d45fc35ca45bed6922c777f81d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '8970e01b4107c23fdaf08ff0d0bde5bf') in 0.446475 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/ALP_Assets/Poplar Tree FREE/TerrainLayers/Grey.terrainlayer
+  artifactKey: Guid(c7cedc5452c43d34699762839771afcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ALP_Assets/Poplar Tree FREE/TerrainLayers/Grey.terrainlayer using Guid(c7cedc5452c43d34699762839771afcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'debcdba0f805da09c55c3179c69dc2f4') in 0.047196 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.678003 seconds.
+  path: Assets/ALP_Assets/Poplar Tree FREE/TerrainLayers/Brown.terrainlayer
+  artifactKey: Guid(f2b04dadcab983d44a793ad1e365a236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ALP_Assets/Poplar Tree FREE/TerrainLayers/Brown.terrainlayer using Guid(f2b04dadcab983d44a793ad1e365a236) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'b25334e20946f9bcde7f57d2b1fd2319') in 0.065467 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 1.537435 seconds.
+  path: Assets/ALP_Assets/Poplar Tree FREE/Models/Textures/GreyGround.png
+  artifactKey: Guid(0193d1326dc462c488d30622eb0f8aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ALP_Assets/Poplar Tree FREE/Models/Textures/GreyGround.png using Guid(0193d1326dc462c488d30622eb0f8aae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fe153f19720a98162f9215ad133c30c8') in 0.146549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 52.494467 seconds.
+  path: Assets/ALP_Assets/Poplar Tree FREE/Models/Textures/BrownGround.png
+  artifactKey: Guid(17a7fd0b308109b4ba8a22f7cbe1b68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ALP_Assets/Poplar Tree FREE/Models/Textures/BrownGround.png using Guid(17a7fd0b308109b4ba8a22f7cbe1b68f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ec4530f14e9e01dc91a5698bb2a9c6f5') in 0.047010 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 51.029526 seconds.
+  path: Assets/ALP_Assets/Poplar Tree FREE/Models/Textures/GreenGround.png
+  artifactKey: Guid(2b890606f4512444aa34f94f9f447f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ALP_Assets/Poplar Tree FREE/Models/Textures/GreenGround.png using Guid(2b890606f4512444aa34f94f9f447f6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '46621555cdf7d0107599df50720db9b0') in 0.044661 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 36.236233 seconds.
+  path: Assets/ALP_Assets/Poplar Tree FREE/Models/Textures/DarkBrownGround.png
+  artifactKey: Guid(7f84e3a6983e7584c8dfca7f6f488397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ALP_Assets/Poplar Tree FREE/Models/Textures/DarkBrownGround.png using Guid(7f84e3a6983e7584c8dfca7f6f488397) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '25f09f076dcda06341e044a8a3a799b9') in 0.049001 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 78.403008 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building Sky_big_color01.fbx
+  artifactKey: Guid(152095147e5492c41a9718b9b09863a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building Sky_big_color01.fbx using Guid(152095147e5492c41a9718b9b09863a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e68faaed6e8e6112c659f06573487130') in 1.723059 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Bakery.fbx
+  artifactKey: Guid(ea9803764c3c1e74b83f6dda1cfa0885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Bakery.fbx using Guid(ea9803764c3c1e74b83f6dda1cfa0885) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '45115822021b7ff56ed8a03a4f34da7c') in 0.054871 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Bar.fbx
+  artifactKey: Guid(71baf848e76aefd4e9d729d470d2081a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Bar.fbx using Guid(71baf848e76aefd4e9d729d470d2081a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0932928d2a720623349bcc8ccdfc118a') in 0.051524 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Auto Service.fbx
+  artifactKey: Guid(c886fb979d2b589419f4cd3003261086) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Auto Service.fbx using Guid(c886fb979d2b589419f4cd3003261086) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '719a501a5277baa4036915b95c9c5425') in 0.050006 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Books Shop.fbx
+  artifactKey: Guid(2c2dcc3c02224de46b4813f3110dca1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Books Shop.fbx using Guid(2c2dcc3c02224de46b4813f3110dca1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'e226c527cacf185ddd58c1d20f1cb1b8') in 0.033873 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Chicken Shop.fbx
+  artifactKey: Guid(83f25ee3b9f68a04faad68fee3d27b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Chicken Shop.fbx using Guid(83f25ee3b9f68a04faad68fee3d27b51) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ad445b456a5c403b282fdd05346ea01e') in 0.040703 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Clothing.fbx
+  artifactKey: Guid(6f6936b8f5098f34ab9d2dbe641716f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Clothing.fbx using Guid(6f6936b8f5098f34ab9d2dbe641716f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fb52b38602a02d0bee198faae174fe5f') in 0.059370 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.167626 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Coffee Shop.fbx
+  artifactKey: Guid(a120bc9095fe23d458dc299a94dc00a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Coffee Shop.fbx using Guid(a120bc9095fe23d458dc299a94dc00a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'ff6f537977132d504361cf1a25c58a8f') in 0.029052 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.006007 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Drug Store.fbx
+  artifactKey: Guid(1860d34e1bb20454eafce0acf664508b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Drug Store.fbx using Guid(1860d34e1bb20454eafce0acf664508b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '0d1c0bc01c674e0eec58f490ff5fc977') in 0.043502 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.907070 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Factory.fbx
+  artifactKey: Guid(932be02d2912c394786d8ec1d2007f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Factory.fbx using Guid(932be02d2912c394786d8ec1d2007f18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '52cb06b2ca684169346a0113e212fd6b') in 0.041658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.040809 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Fruits  Shop.fbx
+  artifactKey: Guid(0f5d2e6533e3fb44fbd094c173ba3f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Fruits  Shop.fbx using Guid(0f5d2e6533e3fb44fbd094c173ba3f32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'afeb20c112a9e7253f90384655ee9dbb') in 0.029389 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.055589 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Gift Shop.fbx
+  artifactKey: Guid(4a3db8768f20288458711d0f979974bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Gift Shop.fbx using Guid(4a3db8768f20288458711d0f979974bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fecb772619679010285dd1cc6155955d') in 0.021842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.094268 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_House_01_color01.fbx
+  artifactKey: Guid(6fddb771ca917c6498310bcc16a817e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_House_01_color01.fbx using Guid(6fddb771ca917c6498310bcc16a817e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fcd6156d81385143130545f3b9a6b58d') in 0.032397 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.066373 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_House_02_color01.fbx
+  artifactKey: Guid(8cb6d953267a0884288df6a274f09c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_House_02_color01.fbx using Guid(8cb6d953267a0884288df6a274f09c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f08e1c589e24052f2fb3bde66821e4cc') in 0.039656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.101928 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_House_03_color01.fbx
+  artifactKey: Guid(4290fe0579b63f4429763c6c6d2f242d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_House_03_color01.fbx using Guid(4290fe0579b63f4429763c6c6d2f242d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '61661f4953fb2e7b0584b2e0709002a1') in 0.045290 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.075126 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_House_04_color01.fbx
+  artifactKey: Guid(600c276288a996744bd73e53635eba4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_House_04_color01.fbx using Guid(600c276288a996744bd73e53635eba4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1532888e9593c1d49c1d9c8071bb80a2') in 0.036081 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.110738 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Music Store.fbx
+  artifactKey: Guid(e6c7be1b4691ca441abe64159118907b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Music Store.fbx using Guid(e6c7be1b4691ca441abe64159118907b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '50dde8861f95cfdb21db7b25d509db51') in 0.036571 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.013409 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Pizza.fbx
+  artifactKey: Guid(d015ce89362e9504890f33e36733d925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Pizza.fbx using Guid(d015ce89362e9504890f33e36733d925) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '965288858252c0f9b3e5f956ddd0818b') in 0.052315 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.213267 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Residential_color01.fbx
+  artifactKey: Guid(42f28010e67310c4c9ea88fbc4084fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Residential_color01.fbx using Guid(42f28010e67310c4c9ea88fbc4084fc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '84e3e99ae3a8970151dd919ee4e32e7e') in 0.033911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.007207 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Restaurant.fbx
+  artifactKey: Guid(efc62b24c745a1f469c0d1453dfb41e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Restaurant.fbx using Guid(efc62b24c745a1f469c0d1453dfb41e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '00520e61c7daed259d32b1500849999c') in 0.043190 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.012079 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Shoes Shop.fbx
+  artifactKey: Guid(27c09c8008c0ada409e024a1dc2186c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Shoes Shop.fbx using Guid(27c09c8008c0ada409e024a1dc2186c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '70fbb776eeafceaf381a0ca1b482b3ba') in 0.036639 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Building_Super Market.fbx
+  artifactKey: Guid(fad753de86ef7464790653995e61e7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Building_Super Market.fbx using Guid(fad753de86ef7464790653995e61e7c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '3380810d3506205332cc05bf325c2f64') in 0.045561 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.012662 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Big Tree.prefab
+  artifactKey: Guid(b82e76f4092b7d24aaeecddf36fe8d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Big Tree.prefab using Guid(b82e76f4092b7d24aaeecddf36fe8d3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a5edc09cca259a07e25a850fd6503538') in 0.071495 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000116 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Bush_01.prefab
+  artifactKey: Guid(31bbda51eeab02f44a8e92a7da2f5ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Bush_01.prefab using Guid(31bbda51eeab02f44a8e92a7da2f5ff8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '371fe9cdf1f16c2f28a4877f4b6782b6') in 0.049962 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 2.660810 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Natures_Bush_02.fbx
+  artifactKey: Guid(f65d01a310db1b74582d89cdcb63fe4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Natures_Bush_02.fbx using Guid(f65d01a310db1b74582d89cdcb63fe4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cff57add693bbccbf954cf09f5e6fa78') in 0.040396 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.009641 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Natures_Bush_03.fbx
+  artifactKey: Guid(878eb4575d3db2143bff9ebf5c266974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Natures_Bush_03.fbx using Guid(878eb4575d3db2143bff9ebf5c266974) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c2281edda86a052b6c6082001ec977ac') in 0.020493 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000933 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Bush_03.prefab
+  artifactKey: Guid(47ea3e3caeb3c2845bbd9339bdc7a282) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Bush_03.prefab using Guid(47ea3e3caeb3c2845bbd9339bdc7a282) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '28950080542a810a42fe657a24d448cd') in 0.033461 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.009431 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Cube Tree.prefab
+  artifactKey: Guid(8b680e0f7699a254c84ed6737b7eb53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Cube Tree.prefab using Guid(8b680e0f7699a254c84ed6737b7eb53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '01f5ba633c057942db6fa09fb69f43c1') in 0.038571 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.344151 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Fir Tree.prefab
+  artifactKey: Guid(2509cc5763ca17f4598bf61fd585a93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Fir Tree.prefab using Guid(2509cc5763ca17f4598bf61fd585a93e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'c10ea533399454be9922e02537f7fde6') in 0.045367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.005539 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Grass Bar.prefab
+  artifactKey: Guid(c07ada992c3586e4dbf557bc4b8718cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Grass Bar.prefab using Guid(c07ada992c3586e4dbf557bc4b8718cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '7b9d5593f3a153a413ef80b124d2db0d') in 0.051223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.595372 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Grass Fence.prefab
+  artifactKey: Guid(b14aef9a05449784da6735de9ec90b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Grass Fence.prefab using Guid(b14aef9a05449784da6735de9ec90b24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '082f99d8203591ca0af43cda52169104') in 0.041945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.260840 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Natures_Grass Tile.fbx
+  artifactKey: Guid(fbb8756519c039b4f804c77c5e3293f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Natures_Grass Tile.fbx using Guid(fbb8756519c039b4f804c77c5e3293f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '34e7e336c90326ade2d09e361f6bd42a') in 0.036808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.002755 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Natures_Grass Tile Small.fbx
+  artifactKey: Guid(3163f2c03b1dac0419001ac5e42f8c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Natures_Grass Tile Small.fbx using Guid(3163f2c03b1dac0419001ac5e42f8c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '77216a81e7d666c316fd1310f08d3663') in 0.026336 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.326843 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Natures_House Floor.fbx
+  artifactKey: Guid(c7327ddbb4f55824eb37461c53fdd55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Natures_House Floor.fbx using Guid(c7327ddbb4f55824eb37461c53fdd55d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'cc8c390c8f148ba1a1aded676cb40bb6') in 0.030368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.004342 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Natures_Pot Bush_big.fbx
+  artifactKey: Guid(47c1421697edd00439084088bf4efb68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Natures_Pot Bush_big.fbx using Guid(47c1421697edd00439084088bf4efb68) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'fefb7650581bdeed3b08fae8a73c0ed6') in 0.045050 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.017322 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Pot Bush_small.prefab
+  artifactKey: Guid(800befcc62026a34693972077c91698d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Pot Bush_small.prefab using Guid(800befcc62026a34693972077c91698d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '40c3617472d1710ddf4cbf16bb22ff22') in 0.046219 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.243403 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Rock_Big.prefab
+  artifactKey: Guid(dac1a631b172e66469fb09e9987bcf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Rock_Big.prefab using Guid(dac1a631b172e66469fb09e9987bcf57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'a01607895aa1b1b5feb1d6869f43289d') in 0.039447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.007801 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Rock_small.prefab
+  artifactKey: Guid(9ec25066ec33fa84d9227e27c5f5a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Natures/Natures_Rock_small.prefab using Guid(9ec25066ec33fa84d9227e27c5f5a8a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '02292ba5b7c367ec649cbca0ee3ac881') in 0.025502 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 3.319349 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Road Intersection_02.fbx
+  artifactKey: Guid(e99a120d866554343b007e93ab80eb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Road Intersection_02.fbx using Guid(e99a120d866554343b007e93ab80eb6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '96dba53292d79147c8e397e14921a65e') in 0.033043 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.002275 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Road Split Line.fbx
+  artifactKey: Guid(63ec040e5e2c7354191119a82429932a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Road Split Line.fbx using Guid(63ec040e5e2c7354191119a82429932a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '1618398cd59024e83f3cde11d3150b4d') in 0.034712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.341180 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Separated Wheels/Vehicle_Truck_color02_separate.prefab
+  artifactKey: Guid(f119644f5530c1044aa946bb6b18bb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Prefab/Vehicles/Vehicle with Separated Wheels/Vehicle_Truck_color02_separate.prefab using Guid(f119644f5530c1044aa946bb6b18bb13) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '32433f70478a9a46449f4d4c4969c7e2') in 0.067244 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Truck_separate.fbx
+  artifactKey: Guid(4d73dd8cdf5db944da1cd14e579cee1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Truck_separate.fbx using Guid(4d73dd8cdf5db944da1cd14e579cee1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: '9b2291c90de9fbabb3065cfb7a1d5426') in 0.140540 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 0.285727 seconds.
+  path: Assets/ALP_Assets/Poplar Tree FREE/Models/Meshes/PoplarTree001.fbx
+  artifactKey: Guid(be915314847e75b49baf8d9aeb050d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ALP_Assets/Poplar Tree FREE/Models/Meshes/PoplarTree001.fbx using Guid(be915314847e75b49baf8d9aeb050d28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 8 workers.
+ -> (artifact id: 'f317eeed6d6a234c1b113bcd7879ffd5') in 7.548973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 45
