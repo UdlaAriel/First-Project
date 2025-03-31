@@ -6,3 +6,6 @@ W = Avanzar hacia ADELANTE
 S = Avanzar hacia ATRÁS
 A = Avanzar hacia la IZQUIERDA
 D = Avanzar hacia la DERECHA
+
+
+El videojuego fue desarrollado por Luis Pineda, José Cerezo y Ariel Anchapaxi
